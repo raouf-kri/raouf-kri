@@ -1,19 +1,19 @@
 <!-- Header -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Hi%20there!%20I'm%20Raouf&fontAlign=50&fontAlignY=40&fontSize=40)
 
-# ✨ Hi there! I'm Raouf 👋  
+# 🌐 Full-Stack Web Developer & AI Enthusiast 🤖
+
 
 ## 🌟 About Me  
-Hi, I'm **Raouf**, a passionate **Computer Vision Enthusiast** with a knack for solving real-world problems using cutting-edge technologies.  
+Hi, I'm **Raouf**, a passionate **AI Enthusiast** with a knack for solving real-world problems using cutting-edge technologies.  
 I enjoy building efficient systems, experimenting with AI models, and creating impactful projects.
 
-- 🎓 Currently pursuing **Master 1 in Computer Vision**.  
-- 💼 Working on **Nirou Delivery** and other exciting projects.  
-- 🌱 Learning **advanced AI techniques and full-stack development**.  
-- 💬 Ask me about **AI, Backend Development, and Computer Vision tools**.  
+- 🎓 Currently pursuing **Master 1 in Computer Vision**.   
+- 🌱 Learning **reinforcement learning...**.  
+- 💬 Ask me about **AI, Web Development, and Computer Vision tools**.  
 - ⚡ Fun Fact: I believe learning never stops. 🚀  
 
-![GIF Description](/3d-hygge-man-working-on-graphic-tablet.gif)
+![GIF Description](/old_man.gif)
 
 ## 🛠️ Technologies  
 
@@ -31,6 +31,7 @@ I enjoy building efficient systems, experimenting with AI models, and creating i
 ![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![And More](https://img.shields.io/badge/And%20More-%23FF6347.svg?style=for-the-badge&logo=rocket&logoColor=white)
 
 ### **Tools & Platforms**  
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -41,28 +42,30 @@ I enjoy building efficient systems, experimenting with AI models, and creating i
 
 ## 🚀 Projects  
 
-- 🌟 **[Nirou Delivery](https://github.com/raouf-kri/nirou-delivery)**  
-  A modern delivery app powered by Django with robust backend capabilities.
+- 🌟 **[Pharmalink](https://www.behance.net/gallery/206990415/Pharmalink-CRM)**  
+  A modern CRM powered by AI.
 
-- 💡 **[AI-Powered Project](https://github.com/raouf-kri/ai-powered-project)**  
-  An innovative project leveraging TensorFlow to solve real-world challenges.
+- 💡 **[CIBChecker](https://www.behance.net/gallery/208892103/CIBChecker)**  
+  A platform that automates the verification process for SATIM/CIB payment integration.
 
-- 📸 **[Computer Vision App](https://github.com/raouf-kri/computer-vision-app)**  
-  Implementing advanced image processing and recognition algorithms.
+- 📸 **[Docu vault](https://www.behance.net/gallery/208599961/Docuvault)**  
+  A secure document management platform that uses AI to classify documents.
 
 ---
 
 ## 📊 GitHub Stats  
 
-![Raouf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raouf-kri&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raouf-kri&layout=compact&theme=radical)
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=raouf-kri&show_icons=true&theme=radical&hide_title=true&card_width=420" alt="Raouf's GitHub Stats" style="width: 48%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raouf-kri&layout=compact&theme=radical&card_width=420" alt="Top Languages" style="width: 48%;" />
+</div>
 
 ---
 
 ## 🌐 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raouf-kri)  
-[![Behance](https://img.shields.io/badge/Behance-%231766E1.svg?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/yourusername)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raouf-khiari-215822289/)  
+[![Behance](https://img.shields.io/badge/Behance-%231766E1.svg?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/raouf-khiari)  
 [![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raoufkh05000@gmail.com)
 
 ---
