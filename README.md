@@ -13,11 +13,7 @@ I enjoy building efficient systems, experimenting with AI models, and creating i
 - 💬 Ask me about **AI, Backend Development, and Computer Vision tools**.  
 - ⚡ Fun Fact: I believe learning never stops. 🚀  
 
----
-
-![GIF Description](https://path-to-your-gif.gif)
-
----
+![GIF Description](/3d-hygge-man-working-on-graphic-tablet.gif)
 
 ## 🛠️ Technologies  
 
