@@ -38,30 +38,6 @@ I enjoy building efficient systems, experimenting with AI models, and creating i
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
-
-## 🚀 Projects  
-
-- 🌟 **[Pharmalink](https://www.behance.net/gallery/206990415/Pharmalink-CRM)**  
-  A modern CRM powered by AI.
-
-- 💡 **[CIBChecker](https://www.behance.net/gallery/208892103/CIBChecker)**  
-  A platform that automates the verification process for SATIM/CIB payment integration.
-
-- 📸 **[Docu vault](https://www.behance.net/gallery/208599961/Docuvault)**  
-  A secure document management platform that uses AI to classify documents.
-
----
-
-## 📊 GitHub Stats  
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=raouf-kri&show_icons=true&theme=radical&hide_title=true&card_width=420" alt="Raouf's GitHub Stats" style="width: 48%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raouf-kri&layout=compact&theme=radical&card_width=420" alt="Top Languages" style="width: 48%;" />
-</div>
-
----
-
 ## 🌐 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raouf-khiari-215822289/)  
